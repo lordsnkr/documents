@@ -20,5 +20,6 @@ plugins:
           release: major
         - type: feat
           release: major
-  - "@semantic-release/release-notes-generator"
+  - - "@semantic-release/release-notes-generator"
+    - preset: angular
   - "@semantic-release/github"
