@@ -1,10 +1,9 @@
-## 1. Thanh toán trả trước
-- Khách hàng sẽ phải trả trước tiền đặt cọc, tương ứng với `20%` toàn bộ giá trị đơn hàng
-- Trạng thái đơn hàng sẽ được chuyển qua trạng thái `đang xử lí` sau khi khách hàng đã đặt cọc
-- Khách hàng sẽ phải thanh toán nốt `80%` giá trị đơn hàng sau khi đã nhận hàng, kiểm hàng và xác nhận
-## 2. Thanh toán thẻ nội địa
-- Khách hàng thanh toán trả trước thông qua thẻ nội địa trên cổng thanh toán vnpay
-## 3. Thanh toán visa, master
-- Khách hàng thanh toán trả trước thông qua thẻ visa/master trên cổng thanh toán vnpay
-## 4. Thanh toán bằng paypal
-- Chưa hỗ trợ
+# Chính sách thanh toán
+
+- Chính sách thanh toán trên trang web REALSNKR rất linh hoạt và đảm bảo an toàn cho khách hàng. Chúng tôi chấp nhận nhiều hình thức thanh toán như :
+
+1. Thẻ ngân hàng: Quý khách có thể thanh toán bằng thẻ ngân hàng nội địa, Visa, Mastercard thông qua cổng thanh toán VNPAY.
+2. Chuyển khoản ngân hàng: Chúng tôi cung cấp thông tin tài khoản ngân hàng để quý khách thực hiện chuyển khoản thanh toán.
+3. Chúng tôi sẽ hỗ trợ các phương anh thức thanh toán khác trong thời gian gần như momo, zalpopay, viettelpay, ...
+
+- Quý khách có thể yên tâm với việc thanh toán trực tuyến vì chúng tôi sử dụng các dịch vụ thanh toán an toàn, tiện lợi và đáng tin cậy. Chúng tôi cam kết bảo mật thông tin thanh toán của khách hàng và không lưu trữ thông tin thẻ của khách hàng trên hệ thống.
