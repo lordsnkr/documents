@@ -8,4 +8,4 @@
 
 ---
 
-<p style="text-align: center;font-weight: bold;">STEP IN STYLE</p>
+<h3 align="center">STEP IN STYLE</h3>
